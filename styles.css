@@ -127,9 +127,9 @@ color: #ffffff;
 /* Adjust the image styling */
 .about-img {
   width: 250px;
-  height: 3000px;
+  height: 250px;
   border-radius: 50%;
-  object-fit: fit;
+  object-fit: cover;
   margin-bottom: 20px;
 }
 
